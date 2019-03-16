@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="MCCore">
+    <CLASSES>
+      <root url="jar://C:/javalib/MCCore.jar!/" />
+      <root url="jar://C:/javalib/SkillAPI.jar!/" />
+      <root url="jar://C:/javalib/craftbukkit-1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/javalib/craftbukkit-1.8.jar!/" />
+    </SOURCES>
+  </library>
+</component>

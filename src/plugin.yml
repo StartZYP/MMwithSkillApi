@@ -1,0 +1,6 @@
+name: MMwithSkApi
+main: com.qq44920040.Minecraft.MMwithSkApi
+version: 1.0
+depend: [SkillAPI]
+commands:
+  mws:

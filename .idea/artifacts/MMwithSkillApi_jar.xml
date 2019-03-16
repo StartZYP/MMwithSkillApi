@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="MMwithSkillApi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MMwithSkillApi_jar</output-path>
+    <root id="root">
+      <element id="archive" name="MMwithSkillApi.jar">
+        <element id="module-output" name="MMwithSkillApi" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+MMwithSkillApi:
+  野猪:
+    Level: 13
+    Exp: 50
+  野牛:
+    Level: 2
+    Exp: 12
+  大灰狼:
+    Level: 18
+    Exp: 38
+  小白兔:
+    Level: 20
+    Exp: 33
+Msg: "§c§e你杀死了{Mobs}获得了{Exp}"

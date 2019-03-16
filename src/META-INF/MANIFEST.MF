@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: MCCore.jar SkillAPI.jar craftbukkit-1.8.jar
+
